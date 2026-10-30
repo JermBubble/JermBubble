@@ -13,7 +13,7 @@ I work where AI meets audio. I create and review training data that teaches AI s
 ## Learning
 
 - **CS50's Introduction to Artificial Intelligence with Python**, Harvard University (certificate, 2026)
-  Search, logic, probability, optimization, machine learning, neural networks, and natural language processing, through 10 Python projects using TensorFlow, scikit-learn, NLTK, and Hugging Face Transformers.
+  Search, logic, probability, optimization, machine learning, neural networks, and natural language processing, through 12 Python projects using TensorFlow, scikit-learn, NLTK, and Hugging Face Transformers.
   *Course solutions aren't posted here, in line with CS50's academic honesty policy.*
 
 ## Audio tools
